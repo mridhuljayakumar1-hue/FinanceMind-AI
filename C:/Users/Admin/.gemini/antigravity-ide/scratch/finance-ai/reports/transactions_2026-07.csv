@@ -1,0 +1,12 @@
+id,date,type,category,amount,description
+10,2026-07-20,expense,Other,800.0,Stationery and misc
+2,2026-07-15,income,Freelance,8000.0,Freelance web project
+8,2026-07-12,expense,Dining Out,1800.0,Dinner with friends
+5,2026-07-10,expense,Groceries,2800.0,Mid-month groceries
+7,2026-07-08,expense,Entertainment,1200.0,OTT subscriptions + movie
+9,2026-07-05,expense,Transport,1500.0,Cab + monthly bus pass
+6,2026-07-04,expense,Utilities,2200.0,Electricity + Internet bill
+11,2026-07-03,expense,Rent,7500.0,
+4,2026-07-03,expense,Groceries,3500.0,Weekly grocery shopping
+3,2026-07-01,expense,Rent,15000.0,Monthly apartment rent
+1,2026-07-01,income,Salary,50000.0,Monthly salary credit
